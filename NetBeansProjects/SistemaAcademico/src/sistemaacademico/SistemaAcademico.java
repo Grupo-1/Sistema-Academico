@@ -5,6 +5,8 @@
  */
 package sistemaacademico;
 
+import java.sql.DriverManager;
+
 /**
  *
  * @author eduardo
@@ -15,7 +17,7 @@ public class SistemaAcademico {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        System.out.println("Hola Grupo 1");
     }
     
 }
